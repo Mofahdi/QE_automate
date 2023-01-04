@@ -1,6 +1,6 @@
 # QE_automate
 ## Motivation
-Generate inpu
+Generate Qunatum Espresso (QE) input files more efficiently with less human intervention.
 ## How to use the script:
 * The name of the script that can read structures and generate Quantum Espresso input files is "jarvis_qe_general.py"
 1. You have to provide the path to your structure in the static method 'get_struc_input'. The script can only read 'CIF' or 'POSCAR' formats 
